@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Infinite 2048: Merge & Evolve</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="game-container">
+    <div id="header">
+      <h1>Infinite 2048</h1>
+      <div class="stats">
+        <div>Score: <span id="score">0</span></div>
+        <div>Moves: <span id="moves">0</span></div>
+        <div>Time: <span id="timer">0</span>s</div>
+      </div>
+      <div id="combo"></div>
+      <button id="restart-btn">Restart</button>
+    </div>
+    <div id="grid"></div>
+    <div id="game-over" class="hidden">Game Over</div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
