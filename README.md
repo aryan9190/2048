@@ -6,14 +6,14 @@ Welcome to **Infinite 2048: Merge & Evolve**, a retro-themed twist on the classi
 
 ## Features
 
--  **Infinite Levels**: Keep playing beyond 2048. The game never ends — just gets more challenging!
--  **Smart Merging**: Combine matching tiles with arrow keys or WASD.
--  **Evolving Themes**: Unlock new visual styles every time you hit a tile milestone (e.g. 2048, 4096...).
--  **Bonus Events** (Optional):
-- ** Bomb Tile**: Destroys nearby tiles.
-- ** Freeze Row**: Temporarily locks a row.
-- ** Auto-Merge**: Merges all pairs once.
-- ** Combo Tracker**: Multiply your score with back-to-back merges.
+- **Infinite Levels**: Keep playing beyond 2048. The game never ends — just gets more challenging!
+- **Smart Merging**: Combine matching tiles with arrow keys or WASD.
+- **Evolving Themes**: Unlock new visual styles every time you hit a tile milestone (e.g. 2048, 4096...).
+- **Bonus Events**
+- **Bomb Tile**: Destroys nearby tiles.
+- **Freeze Row**: Temporarily locks a row.
+- **Auto-Merge**: Merges all pairs once.
+- **Combo Tracker**: Multiply your score with back-to-back merges.
 - **Timer** + **Move Counter**
 - **Controls**: Full support for both arrow keys and WASD.
 - **Restart Button** to begin a fresh run.
